@@ -1,0 +1,12 @@
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\bin\Debug\net5.0\Exercise01.deps.json
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\bin\Debug\net5.0\Exercise01.dll
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\bin\Debug\net5.0\ref\Exercise01.dll
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\bin\Debug\net5.0\Exercise01.pdb
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.csproj.AssemblyReference.cache
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.AssemblyInfo.cs
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.dll
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\ref\Exercise01.dll
+C:\Users\HMugaisi\source\repos\Exercise\src\Exercise\Exercise01\obj\Debug\net5.0\Exercise01.pdb
